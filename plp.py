@@ -23,3 +23,8 @@ elif marks >= 40 and marks <= 49:
 
 else:
     print("Out of range")
+
+x = 1 #integer
+while x <= 10:
+    print(x)
+    x += 1
