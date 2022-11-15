@@ -28,3 +28,8 @@ x = 1 #integer
 while x <= 10:
     print(x)
     x += 1
+
+print ("Hello World:!")
+
+var = "Junior"
+print (var)
