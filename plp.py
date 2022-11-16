@@ -53,6 +53,10 @@ print(tuple1)
 set1 = {12, 4, 7, 9, 87, 15}
 print(set1)
 
+#Python Operators
+num1 = 55
+num2 = 75
+print(num2 * num1)
 
 
 
