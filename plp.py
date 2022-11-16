@@ -33,3 +33,26 @@ print ("Hello World:!")
 
 var = "Junior"
 print (var)
+
+patient_name = "Susan Smith"
+print(patient_name)
+
+hospital_name = "Mediheal Hospital"
+print(hospital_name)
+
+ward = "Ward X"
+print(ward)
+
+#List, Tuples and Sets
+list1 = ['JavaTpoint', 1, 2, 54.30, {'Name: ''Peter'}]
+print(list1)
+
+tuple1 = ('JavaTpoint',5,8,31.9,[1,2,3])
+print(tuple1)
+
+set1 = {12, 4, 7, 9, 87, 15}
+print(set1)
+
+
+
+
